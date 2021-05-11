@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ais-globe/static/css/main.d4a32a6b.chunk.css",
+    "main.js": "/ais-globe/static/js/main.f7e00c49.chunk.js",
+    "main.js.map": "/ais-globe/static/js/main.f7e00c49.chunk.js.map",
+    "runtime-main.js": "/ais-globe/static/js/runtime-main.d7cad4c4.js",
+    "runtime-main.js.map": "/ais-globe/static/js/runtime-main.d7cad4c4.js.map",
+    "static/js/2.0fd7bb92.chunk.js": "/ais-globe/static/js/2.0fd7bb92.chunk.js",
+    "static/js/2.0fd7bb92.chunk.js.map": "/ais-globe/static/js/2.0fd7bb92.chunk.js.map",
+    "index.html": "/ais-globe/index.html",
+    "static/css/main.d4a32a6b.chunk.css.map": "/ais-globe/static/css/main.d4a32a6b.chunk.css.map",
+    "static/js/2.0fd7bb92.chunk.js.LICENSE.txt": "/ais-globe/static/js/2.0fd7bb92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7cad4c4.js",
+    "static/js/2.0fd7bb92.chunk.js",
+    "static/css/main.d4a32a6b.chunk.css",
+    "static/js/main.f7e00c49.chunk.js"
+  ]
+}

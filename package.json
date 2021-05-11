@@ -1,0 +1,52 @@
+{
+  "name": "globear",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://jonathan-kelley.com/ais-globe/",
+  "dependencies": {
+    "@react-three/drei": "^4.3.3",
+    "@react-three/fiber": "^6.0.21",
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/d3": "^6.3.0",
+    "@types/jest": "^26.0.23",
+    "@types/node": "^12.20.12",
+    "@types/react": "^17.0.5",
+    "@types/react-dom": "^17.0.4",
+    "@types/three": "^0.127.1",
+    "d3": "^6.7.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-globe.gl": "^2.18.1",
+    "react-scripts": "4.0.3",
+    "three": "^0.128.0",
+    "three-globe": "^2.18.2",
+    "typescript": "^4.2.4",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
