@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ais-globe/static/css/main.d4a32a6b.chunk.css",
-    "main.js": "/ais-globe/static/js/main.f7e00c49.chunk.js",
-    "main.js.map": "/ais-globe/static/js/main.f7e00c49.chunk.js.map",
+    "main.js": "/ais-globe/static/js/main.abf87328.chunk.js",
+    "main.js.map": "/ais-globe/static/js/main.abf87328.chunk.js.map",
     "runtime-main.js": "/ais-globe/static/js/runtime-main.d7cad4c4.js",
     "runtime-main.js.map": "/ais-globe/static/js/runtime-main.d7cad4c4.js.map",
     "static/js/2.0fd7bb92.chunk.js": "/ais-globe/static/js/2.0fd7bb92.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d7cad4c4.js",
     "static/js/2.0fd7bb92.chunk.js",
     "static/css/main.d4a32a6b.chunk.css",
-    "static/js/main.f7e00c49.chunk.js"
+    "static/js/main.abf87328.chunk.js"
   ]
 }
